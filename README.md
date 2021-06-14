@@ -16,3 +16,5 @@ Categories :
 - [x] Image Annotation
 - [x] Eager Mode training
 - [x] Fine Tuning
+
+* Detailed explaination has been presented in the notebook itself.
